@@ -16,15 +16,13 @@ module.exports = {
         title: "CrochetBae",
         description: "Crochetcrochetcrochet",
         siteUrl: "https://crochetbae.com",
-        homepageHeader: "Welcome to Your New Blog",
-        homepageAbout: "Tyra is a modern, sleek and feminine Gatsby.js theme. Easily create a beautiful and fast blog and draw attention to your stellar content.",
+        homepageHeader: "Welcome to Crochet Bae!",
+        homepageAbout: "Modern and fashionable patterns with a hint of whimsy thrown in for good measure.",
         mailChimpUrl: "https://mailchimp.com",
         mailChimpToken: "MAILCHIMP TOKEN HERE",
-        youtube: "", // YOUR YOUTUBE PROFILE HERE
-        github: "", // YOUR GITHUB PROFILE HERE 
-        pinterest: "", // YOUR PINTEREST PROFILE HERE
-        facebook: "", // YOUR FACEBOOK PROFILE HERE
-        twitter: "", // YOUR TWITTER PROFILE HERE
+        pinterest: "https://www.pinterest.com/alainacrochets/", // YOUR PINTEREST PROFILE HERE
+        instagram: "https://instagram.com/crochetbae", // YOUR INSTAGRAM PROFILE HERE
+        twitter: "https://twitter.com/thecrochetbae", // YOUR TWITTER PROFILE HERE
     },
     plugins: [
         'gatsby-plugin-sitemap',

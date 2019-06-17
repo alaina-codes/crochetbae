@@ -1,7 +1,7 @@
 import React from 'react';
 import {
   FaPinterestP,
-  FaFacebookF
+  FaInstagram
 } from 'react-icons/fa';
 import {FiMail} from 'react-icons/fi'
 import { StaticQuery, graphql } from 'gatsby';
@@ -34,7 +34,7 @@ export default (props) => {
               className="w-100 h3 flex items-center justify-center b near-white"><FaPinterestP /></a>
             <a
               href={`https://www.facebook.com/sharer/sharer.php?u=${base + location}`}
-              className="w-100 h3 flex items-center justify-center b near-white"><FaFacebookF /></a>
+              className="w-100 h3 flex items-center justify-center b near-white"><FaInstagram /></a>
             <a
               href={`mailto:?&body=${base + location}`}
               className="w-100 h3 flex items-center justify-center b near-white"><FiMail /></a>

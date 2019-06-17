@@ -1,13 +1,13 @@
 ---
 
 type: "post"
-title: "The Secret to Sincere Friends? Be Yourself."
-author: "Jane Doe"
-category: "lifestyle"
-date: "2018-01-02"
-slug: "/be-yourself"
-postImage: "./img/friends.jpg"
-metaDescription: "Building friendships as an adult is really, really hard. Our advice? Just be yourself, you'll get there."
+title: "My Favorite Crochet Books at the Moment"
+author: "Alaina"
+category: "blog"
+date: "2019-06-25"
+slug: "/fave-crochet-books-june-2019"
+postImage: "./img/reading.jpg"
+metaDescription: "A roundup of my favorite crochet books at the moment"
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 
 type: "post"
-title: "Gorgeous Makeup Looks For This Winter"
-author: "Jane Doe"
-category: "makeup"
-date: "2018-01-01"
-slug: "/post"
-postImage: "./img/balloons.jpg"
-metaDescription: "The hottest trends for the coolest season. Check out Tyra product picks and get inspired this holiday season!"
+title: "Pattern Placeholder"
+author: "Alaina"
+category: "patterns"
+date: "2019-06-18"
+slug: "/pattern-placeholder"
+postImage: "./img/yarn-jar.jpg"
+metaDescription: "Here is where a pattern will be going!"
 
 ---
 
