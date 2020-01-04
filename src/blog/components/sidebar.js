@@ -33,7 +33,7 @@ export default (props) => {
               href={`https://pinterest.com/pin/create/button/?url=${base + location}&description=${desc}&media=${base + img}`}
               className="w-100 h3 flex items-center justify-center b near-white"><FaPinterestP /></a>
             <a
-              href={`https://www.facebook.com/sharer/sharer.php?u=${base + location}`}
+              href={`https://www.instagram.com/crochetbae`}
               className="w-100 h3 flex items-center justify-center b near-white"><FaInstagram /></a>
             <a
               href={`mailto:?&body=${base + location}`}
