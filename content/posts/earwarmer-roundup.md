@@ -6,7 +6,7 @@ author: "Alaina"
 category: "patterns"
 date: "2020-01-04"
 slug: "/earwarmer-roundup"
-postImage: "./img/yarn-jar.jpg"
+postImage: "./img/earwarmer-roundup/list-image.png"
 metaDescription: "Looking for a quick project to keep you warm in the winter? Here's a round up of some of my favorite cozy headbands for the colder weather!"
 
 ---
